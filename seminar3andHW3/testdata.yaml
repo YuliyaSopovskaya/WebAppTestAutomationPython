@@ -1,4 +1,10 @@
 url: https://test-stand.gb.ru/
 url_login: https://test-stand.gb.ru/login
+username: GB20230583da08
+password: a2382aba8d
 browser: chrome
 sleep_time: 1
+
+# contact_name: Yuliya2
+# contact_email: yuliya@example.com
+# contact_message: test message
